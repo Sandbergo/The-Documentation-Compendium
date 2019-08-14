@@ -73,6 +73,7 @@ Even if for some reason they have to use it, without good documentation, they wo
 ## Templates <a name = "templates"></a>
 
 - [README](/en/README_TEMPLATES)
+- [NTNU README](/en/README_TEMPLATES/NTNU_README.md)
 - [Pull Request](/en/PULL_REQUEST_TEMPLATE.md)
 - [Issues](/en/ISSUE_TEMPLATES)
 - [Contributing](/en/CONTRIBUTING.md)
