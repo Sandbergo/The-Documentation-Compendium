@@ -1,5 +1,6 @@
 ### This folder contains various README Templates that one can use based on the type of project.
 
+1. [NTNU_README.md](./NTNU_README.md) - Simple but elegant and lighthearted README-template for projects in NTNU courses
 1. [Bot.md](./Bot.md) - For if you have an awesome Bot that you want to share with others.
 2. [Hackathon.md](./Hackathon.md) - At a Hackathon and quickly need to set up a beautiful, thorough
 README that leaves a lasting impression on the judges? This is the template for you!
